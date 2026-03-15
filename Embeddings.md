@@ -1,3 +1,7 @@
+---
+title: "The Power of Embeddings"
+date: "Mar 14, 2026"
+---
 # The Power of Embeddings
 
 My first exposure to embeddings and vectors was a while ago when I was first learning about ML models and transformers. I thought it was super cool how you could distill meaning through a set of numbers, but it didn't really stand out as much to me at the time because I wasn't thinking about their functionality outside of that context—like, vectors were just a thing that happened inside these models.
