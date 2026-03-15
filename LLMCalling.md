@@ -1,3 +1,8 @@
+---
+title: "LLM API usuage"
+date: "Feb 12, 2026"
+---
+
 # Reliable LLMs: Beyond the Prompt
 
 I've recently started designing more complex RAG systems lately, learning about things like Self-RAG systems, and with that, I've been learning a lot about model output formatting. One of my favorite features that I feel so late to for not knowing about is response format.
