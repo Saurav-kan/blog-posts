@@ -1,5 +1,5 @@
 ---
-title: "The Power of Embeddings"
+title: "Embeddings"
 date: "Mar 14, 2026"
 ---
 # The Power of Embeddings
