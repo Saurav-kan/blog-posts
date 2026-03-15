@@ -1,6 +1,6 @@
 ---
 title: "Embeddings"
-date: "Mar 14, 2026"
+date: "Jan 18, 2026"
 ---
 # The Power of Embeddings
 
